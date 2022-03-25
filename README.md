@@ -1,6 +1,6 @@
 # Dog Breed Project
 
-Classifying Different Dog Breeds in Images 🐶
+Classifying Different Dog Breeds in Images 🐶 <br>
 Project Source:
 https://www.kaggle.com/c/dog-breed-identification/overview
 
